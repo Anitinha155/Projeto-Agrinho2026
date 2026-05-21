@@ -21,5 +21,5 @@ section{
 /* Classe usada no modo escuro */
 .dark{
   background:#03010c;
-  color:white;
+  color:rgb(255, 208, 234);
 }
